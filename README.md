@@ -1,4 +1,7 @@
 # Vostok-Relay-Chat
+
+<img width="1536" height="1024" alt="rvc2" src="https://github.com/user-attachments/assets/3fad9d17-1953-4d35-9507-befb9b201945" />
+
 Global in-game chat for Road to Vostok. Talk to other players in real time without leaving the game.
 What it does
 Adds a chat overlay to the bottom-left corner of your screen. Every player running this mod connects to the same relay server — type a message and everyone online sees it.
